@@ -1,7 +1,7 @@
-Media Manager
+# Media Manager<br>
 Command-line program that reads a list of different types of media from an external document, then prints the number of each different type of media
 
-Usage Example: 
+## Usage Example: 
 Total number of products: 41<br>
 Total number of Movies: 10<br>
 Total number of TV Shows: 10<br>
